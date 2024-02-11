@@ -1,0 +1,14 @@
+/* Your css for App.jsx */
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.timerContainer {
+    align-items: center;
+
+}
